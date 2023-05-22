@@ -14,6 +14,9 @@ git add file
 git commit -m "nbdihsajgf"
 git push -u origin main
 
+
+git pull origin main
+
 finished!
 
 
